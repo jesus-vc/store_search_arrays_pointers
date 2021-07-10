@@ -1,9 +1,8 @@
 //
 //  main.c
-//  array_manipulation_hw10
 //
-//  Created by Jesus Vasquez-Cipriano on 12/3/20.
-//  Copyright © 2020 Jesus Vasquez-Cipriano. All rights reserved.
+//  Created by Jesus Vasquez-Cipriano on 7/10/2021.
+//  Copyright © 2021 Jesus Vasquez-Cipriano. All rights reserved.
 //
 
 /* ********************************************
